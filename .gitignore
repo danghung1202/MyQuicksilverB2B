@@ -186,3 +186,4 @@ FakesAssemblies/
 
 *.pubxml
 Sources/EPiServer.Reference.Commerce.Site/modules/
+Sources/EPiServer.Reference.Commerce.Site/App_Data/
